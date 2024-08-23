@@ -109,10 +109,10 @@ If you run into any issues, then please submit a bug report on the issues tab of
 | B2          | I             | C-Down      | A           | B           |
 | B3          | IV (turbo II) | B           | Y           | X           |
 | B4          | III (turbo I) | C-Left      | X           | Y           |
-| L1          | VI            | L           | L           | LB          |
-| R1          | V             | R           | R           | RB          |
-| L2          |               | C-Up        | L (switch Z)| LT          |
-| R2          |               | C-Right     | R (switch Z)| RT          |
+| L1          | VI            | L           |            | LB          |
+| R1          | V             | R           | Z           | RB          |
+| L2          |               | C-Up        | L | LT          |
+| R2          |               | C-Right     | R | RT          |
 | S1          | Select        | Nuon        | Z           | Back        |
 | S2          | Run           | Start       | Start       | Start       |
 | L3          |               |             |             | LS          |
@@ -190,3 +190,4 @@ Join 👉 [discord.usbretro.com](https://discord.usbretro.com/)
 - [Ryzee119](https://github.com/Ryzee119) for the wonderful [tusb_xinput](https://github.com/Ryzee119/tusb_xinput/) library for X-input support
 - [SelvinPL](https://github.com/SelvinPL/) for the robust [lufa-hid-parser](https://gist.github.com/SelvinPL/99fd9af4566e759b6553e912b6a163f9) example for generic HID gamepad support
 - [JonnyHaystack](https://github.com/JonnyHaystack/) for the awesome [joybus-pio](https://github.com/JonnyHaystack/joybus-pio) for GameCube controller output
+
